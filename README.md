@@ -18,10 +18,6 @@ Sentiment-Analysis-BERT/
 
 ├── main.py # Main script for data preprocessing, training, and evaluation
 
-├── models/ # Saved BERT fine-tuned models
-
-├── utils.py # Helper functions for tokenization and performance metrics
-
 ├── README.md # Documentation and project overview
 
 
